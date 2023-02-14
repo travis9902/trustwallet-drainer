@@ -58,10 +58,12 @@ This script will drain ETH + ERC20, BNB + BEP20
 
 #`🟢 Lifetime WARRANTY - eternal serviceability.`
  
+#`🟢 Availability - I will be available around the clock for all queries.`
+ 
 #`🟢 Lifetime technical support and one month free updates.`
 
 
-`## 🤝 Full Drainer Source Code Price - 1 ETH Only (FIX PRICE)`
+`## 🤝 Full Drainer Source Code Price - 0.5 ETH Only (FIX PRICE)`
 
 
 ## `🐧 Socials`
